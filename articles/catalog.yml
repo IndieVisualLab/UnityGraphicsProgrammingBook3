@@ -1,0 +1,17 @@
+PREDEF:
+  - Preface.re
+
+CHAPS:
+  - sugino.re
+  - takao.re
+  - oishi.re
+  - Nakamura.re
+  - kaiware007.re
+  - sakota.re
+  - fuqunaga.re
+  - xjine.re
+
+APPENDIX:
+
+POSTDEF:
+  - contributors.re
